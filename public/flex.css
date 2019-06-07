@@ -1,0 +1,18 @@
+.myalign {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 10px;
+    
+}
+
+.centeralign {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.child {
+    padding: 10px
+}
